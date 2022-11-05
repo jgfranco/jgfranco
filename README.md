@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jgfranco
-- 👀 I’m interested in the instersection of technology and music  
+- 👀 I’m interested in the intersection of technology and music  
 - 🌱 I’m currently being mentored by the industry's top engineers at Formation (check https://formation.dev/ for more info)
 - 📫 Reach me at juangerardofranco(at)gmail(dot)com
 
